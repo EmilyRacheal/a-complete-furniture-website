@@ -1,0 +1,26 @@
+body{
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav{
+    font-weight: 800;
+}
+
+.header-text{
+    display: flex;
+}
+
+.body-color{
+    background-color: #e2a22b;
+    height: 97vh;
+    padding-top: 180px;
+}
+
+.body-image{
+    background: url("../img/111.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 97vh;
+}
