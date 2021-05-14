@@ -11,6 +11,10 @@ body{
     display: flex;
 }
 
+.header-text > div > h1{
+    font-weight: 500;
+}
+
 .body-color{
     background-color: #e2a22b;
     height: 97vh;
