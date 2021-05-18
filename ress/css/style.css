@@ -1,24 +1,17 @@
-body{
-    /* font-family: 'Montserrat', sans-serif; */
-    font-family: 'Poppins', sans-serif;
-}
+@font-face{
+    /* font-family: "permanent-marker";
+    src: url(../../PermanentMarker-Regular.ttf) */
+    font-family: "anton-regular";
+    src: url(./../fonts/Anton-Regular.ttf);
+  }
 
-.navbar-nav{
-    /* font-weight: 800; */
+@font-face {
+    font-family: "prata-regular" ;
+    src: url(./../fonts/Prata-Regular.ttf);
 }
 
 .header-text{
     display: flex;
-}
-
-.header-text > div > h1{
-    font-weight: 800;
-    font-size: 40px;
-}
-
-.header-text > div > p{
-    font-size: small;
-    font-weight: 300;
 }
 
 .body-color{
@@ -35,14 +28,6 @@ body{
     height: 97vh;
 }
 
-/* .padd-text{
-    margin-left: 90px;
-    margin-right: 90px;
-} */
-
-.best{
-    font-size: 50px;
-}
-.small{
-    font-size: 17px;
+.first-p{
+    margin-bottom: -0rem
 }
