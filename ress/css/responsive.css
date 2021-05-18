@@ -6,27 +6,36 @@
     }
 
     .navbar{
-        background-color: #0e7525;
+        background-color: #e4efe7;
     }
 
     .padding{
         padding-left: 0px;
         padding-right: 0px;
         position: absolute;
-        color: #fff;
     }
 
+    #navbarScroll .nav-a{
+        color: #064420;
+    }
     .first-p{
         font-size: 25px;
         /* position: absolute; */
+        color: #064420;
+        /* text-shadow: 1px 0px  #000; */
     }
     .head-text{
         font-size: 30px;
         /* position: absolute; */
+        color: #064420;
+        /* text-shadow: 2px 2px  #000; */
     }
 
     .second-p{
         /* position: absolute; */
+        /* font-size: 0px; */
+        color: #064420;
+        /* text-shadow: 1px 0px  #fff; */
     }
 }
 
