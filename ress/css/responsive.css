@@ -8,6 +8,25 @@
     .navbar{
         background-color: #0e7525;
     }
+
+    .padding{
+        padding-left: 0px;
+        padding-right: 0px;
+        position: absolute;
+    }
+
+    .first-p{
+        font-size: 25px;
+        /* position: absolute; */
+    }
+    .head-text{
+        font-size: 30px;
+        /* position: absolute; */
+    }
+
+    .second-p{
+        /* position: absolute; */
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */

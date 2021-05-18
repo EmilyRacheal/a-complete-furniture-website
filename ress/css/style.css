@@ -12,22 +12,51 @@
 
 .header-text{
     display: flex;
+    color: #064420;
 }
 
 .body-color{
-    background-color: #e2a22b;
+    background-color: #d1d9d9;
     height: 97vh;
     padding-top: 180px;
 }
 
 .body-image{
-    background: url("../img/111.jpg");
+    background: url("../img/5.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 97vh;
+    /* opacity: 0.5; */
 }
 
 .first-p{
-    margin-bottom: -0rem
+    margin-bottom: -0rem;
+    font-size: 40px;
 }
+.head-text{
+    font-size: 50px;
+}
+.second-p{
+    font-size: 15px;
+}
+
+.padding{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.btn-style{
+    background-color: #fff;
+    color: #1eae98;
+}
+
+section>#design a{
+    text-decoration: none;
+   
+}
+
+#design a:hover{
+    text-decoration: none;
+}
+
