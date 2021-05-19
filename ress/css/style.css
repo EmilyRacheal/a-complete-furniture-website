@@ -64,3 +64,14 @@ section>#design a{
     text-decoration: none;
 }
 
+/* ====== styling for the second section===== */
+.icon-section .bg-pink{
+    background-color: #ffe5e2;
+}
+
+.icon-hand{
+    background-color: red;
+    color: white;
+    padding: 15px;
+    /* border-radius: 35px; */
+}
