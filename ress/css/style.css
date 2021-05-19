@@ -84,10 +84,17 @@ section>#design a{
 }
 
 .body-imag{
-    background: url("../img/f4-w.png");
+    background: url("../img/gbb.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
     /* opacity: 0.5; */
+}
+
+/* ===== styling for the furniture section ===== */
+
+.my-pad{
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
