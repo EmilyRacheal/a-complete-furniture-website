@@ -20,22 +20,15 @@
     }
     .first-p{
         font-size: 25px;
-        /* position: absolute; */
-        color: #064420;
-        /* text-shadow: 1px 0px  #000; */
+        color: #064420;  
     }
     .head-text{
         font-size: 30px;
-        /* position: absolute; */
         color: #064420;
-        /* text-shadow: 2px 2px  #000; */
     }
 
     .second-p{
-        /* position: absolute; */
-        /* font-size: 0px; */
         color: #064420;
-        /* text-shadow: 1px 0px  #fff; */
     }
     .d-flex{
         flex-direction: column;
@@ -45,6 +38,9 @@
     } */
 
 
+    .text{
+        position: absolute;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
