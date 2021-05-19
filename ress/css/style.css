@@ -77,10 +77,17 @@ section>#design a{
 }
 
 /* ==== styling for the third section ===== */
-.div-image{
-    /* background-image: url(../img/f4.jpg); */
+.body-colo{
+    /* background-color: #d1d9d9; */
+    height: 100vh;
+    padding-top: 180px;
 }
 
-.text{
-    padding-top: 250px;
+.body-imag{
+    background: url("../img/f4-w.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* opacity: 0.5; */
 }
