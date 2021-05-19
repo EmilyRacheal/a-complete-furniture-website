@@ -75,3 +75,21 @@ section>#design a{
     padding: 15px;
     /* border-radius: 35px; */
 }
+
+/* ==== styling for the third section ===== */
+.section-image{
+    background: url("../img/f4-w.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.about{
+    background-color: #e4efe7;
+}
+
+.section-color>.paddins{
+    padding-left: 100px;
+    padding-right: 100px;
+}
