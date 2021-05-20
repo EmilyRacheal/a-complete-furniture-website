@@ -139,3 +139,16 @@ section>#design a{
 .count-text{
     color: #687980;
 }
+
+/* ======== styling the testimonial ====== */
+
+#testimonial{
+    background-color: #edffec;
+}
+.col-color{
+    background-color: #fff;
+}
+
+.col-gold{
+    color: #fea82f;
+}
