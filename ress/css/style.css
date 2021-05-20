@@ -155,3 +155,15 @@ section>#design a{
 .bg-gold{
     background-color: #fea82f !important;
 }
+
+.icon-hands{
+    background-color: #fff;
+    color: #fea82f;
+    padding: 35px;
+}
+
+.icon-handss{
+    background-color: #a4bcff;
+    color: #150188;
+    padding: 35px;
+}
