@@ -10,6 +10,11 @@
     src: url(./../fonts/Prata-Regular.ttf);
 }
 
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
 .header-text{
     display: flex;
     color: #064420;
@@ -122,4 +127,15 @@ section>#design a{
     color: white;
     padding: 15px;
 
+}
+
+/* ===== styling for the counter section ====== */
+#counts{
+    background-color: #d1d9d9;
+}
+.counter{
+    font-size: 50px;
+}
+.count-text{
+    color: #afb9c8;
 }
