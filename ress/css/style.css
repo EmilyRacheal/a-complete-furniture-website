@@ -13,6 +13,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    
 }
 
 .header-text{
@@ -175,3 +176,8 @@ section>#design a{
     cursor: pointer;
     transition: 0.5s;
 }
+
+/* .dark-mode{
+    background-color: black;
+    color: #fff;
+} */
