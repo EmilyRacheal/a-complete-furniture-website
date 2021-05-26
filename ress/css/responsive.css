@@ -37,6 +37,10 @@
         max-width: 600px;
     } */
 
+    .text-hover{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
