@@ -192,10 +192,22 @@ section>#design a{
 }
 
 /* ===== styling for about section ===== */
-section{
-    background: url("../img/me.jpg");
+#nav-sec{
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.1)), url("../img/mg.jpg") ;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+}
+
+.about-m{
+    margin-top: 25rem !important;
+}
+.home-span{
+    /* font-size: 10px solid; */
+    color: #fff;
+}
+.about-span{
+    font-size: 70px;
+    color: #064420;
 }

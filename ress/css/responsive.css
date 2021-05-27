@@ -46,6 +46,10 @@
     .navbar-about{
         background: transparent;
     }
+
+    .about-m{
+        margin-top: 15rem !important;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
