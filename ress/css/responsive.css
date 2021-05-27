@@ -41,6 +41,11 @@
         padding-left: 50px;
         padding-right: 50px;
     }
+
+    /* styling for about section */
+    .navbar-about{
+        background: transparent;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
