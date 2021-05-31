@@ -248,3 +248,20 @@ section>#design a{
     color: #687980;
 }
 
+/* ===== styling for the testimonials section ===== */
+.testimonials{
+    background-color: #fff;
+}
+
+.search-icons{
+    background-color: #fea82f;
+    color: white;
+    padding: 15px;
+}
+
+.search-iconss{
+    background-color: #fff;
+    color: #fea82f;
+    padding: 15px;
+}
+
