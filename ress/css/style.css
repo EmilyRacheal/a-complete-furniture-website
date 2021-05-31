@@ -213,6 +213,30 @@ section>#design a{
     color: #064420;
 }
 
-.body-col{
+/* .body-col{
     
+} */
+/* ==== styling for the about section ==== */
+.btns{
+    background-color: #fea82f !important;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.about-padd{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.head-4{
+    font-size: 40px;
+}
+
+.h6-about{
+    color: #687980;
+}
+
+.p-font{
+    font-family: prata-regular;
+    color: #687980;
 }
