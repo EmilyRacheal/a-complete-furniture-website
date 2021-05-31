@@ -217,15 +217,22 @@ section>#design a{
     
 } */
 /* ==== styling for the about section ==== */
-.btns{
+.btns {
     background-color: #fea82f !important;
     color: #fff;
     text-decoration: none;
     font-weight: bold;
+    text-decoration: none;
 }
+
+.about-padd a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+
 .about-padd{
     padding-top: 80px;
-    padding-bottom: 80px;
+    padding-bottom: 50px;
 }
 
 .head-4{
@@ -240,3 +247,4 @@ section>#design a{
     font-family: prata-regular;
     color: #687980;
 }
+
