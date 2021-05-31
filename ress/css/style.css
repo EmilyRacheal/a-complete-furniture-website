@@ -198,6 +198,7 @@ section>#design a{
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    background-attachment: fixed;
 }
 
 .about-m{
@@ -210,4 +211,8 @@ section>#design a{
 .about-span{
     font-size: 70px;
     color: #064420;
+}
+
+.body-col{
+    
 }
