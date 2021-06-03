@@ -244,7 +244,7 @@ section>#design a{
 }
 
 .p-font{
-    font-family: prata-regular;
+    /* font-family: prata-regular; */
     color: #687980;
 }
 
@@ -265,3 +265,7 @@ section>#design a{
     padding: 15px;
 }
 
+
+.input-font{
+    color: #fea82f;
+}
